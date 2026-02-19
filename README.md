@@ -21,3 +21,6 @@
 - Clean code practices
 
 Always learning and improving every day 🚀
+
+## 🎯 Career Goal
+Currently looking for a Software Development Internship.
