@@ -17,7 +17,7 @@
 - 🎁 Institutional Landing Page
 
 ## 📚 Currently learning
-- Advanced JavaScript
+- JavaScript — fundamentos
 - Data Structures
 - Clean code practices
 
